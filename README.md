@@ -39,5 +39,3 @@ The current implementation of the project is focused on recognizing individual l
 For any suggestions, improvements, or issues, please feel free to contribute to this project.
 
 Enjoy using the Sign Language Recognition system! 🤟👋
-
-(Note: This README assumes you are using Python 3.x for running the project.)
